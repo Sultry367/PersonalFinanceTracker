@@ -8,6 +8,8 @@
 .idea/**/usage.statistics.xml
 .idea/**/dictionaries
 .idea/**/shelf
+.idea/**/obj
+.idea/**/bin
 
 # AWS User-specific
 .idea/**/aws.xml
